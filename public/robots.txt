@@ -1,0 +1,22 @@
+# Allow all bots (including AI search bots) full access
+User-agent: *
+Allow: /
+
+# Optional: Explicitly allow major AI/search bots (example list)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap location
+Sitemap: https://90plussite.vercel.app/sitemap.xml

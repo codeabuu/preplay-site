@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://90plussite.vercel.app/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://90plussite.vercel.app/og-image.jpg</image:loc>
+      <image:title>PREPLAY TIPS Football Predictions App</image:title>
+      <image:caption>Best EPL bets today and free football predictions</image:caption>
+    </image:image>
+    <news:news>
+      <news:publication>
+        <news:name>PREPLAY TIPS</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30</news:publication_date>
+      <news:title>Today's Best EPL Bets and Football Predictions</news:title>
+    </news:news>
+  </url>
+</urlset>
