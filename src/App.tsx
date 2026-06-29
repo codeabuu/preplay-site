@@ -36,7 +36,7 @@ const C = {
 
 function goToStore(e) {
   if (e) e.stopPropagation();
-  window.open(STORE_URL, '_blank');
+  window.location.href = STORE_URL;
 }
 
 /* ── Falling money canvas ─────────────────────────────────────── */
