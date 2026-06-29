@@ -321,7 +321,7 @@ export default function App() {
               fontSize:'.85rem',boxShadow:`0 2px 12px rgba(0,230,118,.4)`,
             }}>⚽</div>
             <div style={{ fontFamily:"'Bebas Neue',sans-serif",fontSize:'1.25rem',letterSpacing:1.5,color:C.text }}>
-              90<span style={{ color:C.accent }}>PLUS</span>TIPS
+            <span style={{ color:C.accent }}>PREPLAY</span>TIPS
             </div>
           </div>
           <div style={{
